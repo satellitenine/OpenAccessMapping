@@ -1,6 +1,6 @@
 # Open-access Drone Mapping Course
 
-**[Citizen Science GIS](http://www.citizensciencegis.org)**
+Based on B Yamg's drone mapping course for citizen science. This project is designed to enable small Canadian communities to contribute to ongoing, long-term remote sensing projects by learning how to fly an RPAS safely and legally and outline best practices for mapping image capture. After completing this self-directed course, a person should be able to take the Transport Canada RPAS-Basic certification test online.
 
 **Citation:**
 
@@ -8,21 +8,22 @@ Yang, B.; Hawthorne, T.L.; Hessing-Lewis, M.; Duffy, E.J.; Reshitnyk, L.Y.; Fein
 
 **Course description**
 
-Unoccupied Aerial Vehicles (UAV), also known as small Unmanned Aerial Systems (sUASs), Unmanned Aerial Systems (UAS) or drones, with their high spatial resolution, temporal flexibility, and ability to repeat photogrammetry, afford advancements in other remote sensing approaches for coastal mapping, habitat monitoring, and environmental management. This open-access drone mapping training course is designed to use drones to collect remote sensing data for coastal mapping and seagrass conservation. We create this training course for research partners and broader communities to learn how to fly drones, and perform data processing in Geographical Information Science (GIS) method. This training course contains topics of flying drones, Preflight & Planning, FAA part 107 examination, Drone2map user guide, and GIS based drone image analyses.
+Remotely Piloted Aircraft Systems (RPAS) - the official designation for drones in Canada, with their high quality cameras, quick and easy deployment, and ability to repeat aerial mapping missions at a very low cost, afford advancements in other remote sensing approaches for coastal mapping, habitat monitoring, land use planning, and environmental management. This open-access drone mapping training course is designed to use drones to collect remote sensing data for terrestrial and intertidal mapping in order to provide insight into change over time. This data enables communities, scientists, researchers, and agencies to make informed decisions regarding environmental protection and conservation. This training course will enable our research partners and and client communities/Nations to learn how to fly RPAS, and perform data processing in Geographical Information Science (GIS) method. This training course contains topics of flying drones, Preflight & Planning, FAA part 107 examination, Drone2map user guide, and GIS based drone image analyses.
 
 
  **Course Objectives**
  
-1.	Basic knowledge of Drone, setup, and maintenance. 
-2.	Learn how to fly drones, manual manipulation and auto-pilot.
-3.	Operate the UAV efficiently, safely, ethically and consistent with FAA regulations.
+1.	Basic knowledge of RPAS quadcopters, setup, and maintenance. 
+2.	RPAS flight skills under manual control and flight planner apps.
+3.	Flying your drone safely and legally, drone registration, drone pilot certification, where and where not to fly, reporting a drone incident.
 3.	Learn FAA part 107 exam, e.g., airspace regulations, sectional charts, and etc.
 4.	Safety guidelines when flying drones. 
 5.	Learn to use DJI GS Pro for auto-pilot flying and collecting field data. 
 6.	Collecting field data and Ground Control Points (GCPs).
 7.	Use Esri Drone2Map to stitch and geo-referencing the drone images. 
-8.	Data management and cloud storage of drone imagery
-9.	Basic GIS analysis on drone imagery, digitizing, multi-spectral band math, vegetation index, and image classification. 
+8.	Use webODM (OpenDroneMap to stitch and geo-referencing the drone images.
+9.	Data management and cloud storage of drone imagery
+10.	Basic GIS analysis on drone imagery, digitizing, multi-spectral band math, vegetation index, and image classification. 
 
 
 ![image](/Files/TrainingModules.png)
